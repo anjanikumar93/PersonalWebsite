@@ -111,7 +111,7 @@ const Maincomponent = () => {
 
                 <div className={classes.developer}>
                   <NavLink className={classes.home} exact to="/">
-                    <h3 className={classes.myname}>Anjnai Kumar</h3>
+                    <h3 className={classes.myname}>Anjani Kumar</h3>
                   </NavLink>
                   <NavLink className={classes.home} exact to="/">
                     <h4 className={classes.frontend}>FRONTEND DEVELOPER</h4>
